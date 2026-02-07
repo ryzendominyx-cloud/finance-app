@@ -1,0 +1,7 @@
+{
+  "name": "Thanos Finance",
+  "description": "A minimalist, dark-themed personal finance and routine tracker powered by AI. Ruthless efficiency for your wallet and habits.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
